@@ -1,0 +1,38 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    align-self: center;
+    font-weight: 700;
+}
+.odd {
+    font-family: verdana, sans-serif;
+    background-color: rgb(241, 121, 177);
+}
+#two {
+    color: blue;
+    font-size: 36px;
+
+}
+#three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(196, 235, 157);
+    font-size: 24px;
+    font-weight: 700;
+    color: black;
+}
+
+.button1, .button2 {
+    font-size: 24px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+.button1{
+    background-color: black;
+    color: white;
+}
+.button2 {
+    background-color: yellow;
+}
